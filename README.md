@@ -1,5 +1,5 @@
 # Kelas-PakAR-Dasar-AlgoritmaDan-Pemrograman
-UAS ROSE MERRY RUTH TANESA 2411030073 Kumpulan tugas Python untuk mata kuliah Dasar Algoritma dan Pemrograman - Bisnis Digital
+UAS ROSE MERRY RUTH TANESA 2411030073 - Bisnis Digital
 3. User Manual (Panduan Pengguna)
 ▶️ Panduan Menjalankan Aplikasi
 Buka Google Colab dan jalankan seluruh sel dari atas ke bawah.
